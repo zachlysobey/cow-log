@@ -1,5 +1,5 @@
 {
-  "name": "cow-log",
+  "name": "@zachlysobey/cow-log",
   "version": "1.0.0",
   "description": "template string cowsay logger",
   "main": "index.js",
