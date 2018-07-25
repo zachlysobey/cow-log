@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "template string cowsay logger",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zachlysobey/cow-log.git"
+  },
   "scripts": {
     "example": "node example.js"
   },
