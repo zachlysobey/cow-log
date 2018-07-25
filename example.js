@@ -1,12 +1,12 @@
 const cow = require('./')
+// const cow = require('@zachlysobey/cow-log')
 
-const foo = "foo"
-const bar = "bar"
-const baz = { baz: [1, 1, 2, 3, 5, 8, 13]}
+const foo = "bar"
+const baz = { arr: [1, 1, 2] }
 const qux = { yes: true, no: false }
 
 cow.log`
-my values: ${{ foo, bar, baz, qux }}
+my values: ${{ foo, baz, qux }}
 
 Isn't this the coolest? <3 <3 <3
 
