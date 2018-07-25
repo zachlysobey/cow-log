@@ -1,0 +1,15 @@
+{
+  "name": "cow-log",
+  "version": "1.0.0",
+  "description": "template string cowsay logger",
+  "main": "index.js",
+  "scripts": {
+    "example": "node example.js"
+  },
+  "keywords": [],
+  "author": "zach@lysobey.com",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.3.1"
+  }
+}
